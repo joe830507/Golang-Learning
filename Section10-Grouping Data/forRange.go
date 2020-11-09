@@ -1,0 +1,10 @@
+package main
+
+import "fmt"
+
+func showRange() {
+	x := []int{1, 2, 3, 4, 5}
+	for i, v := range x {
+		fmt.Println(i, v)
+	}
+}
