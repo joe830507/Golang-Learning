@@ -9,5 +9,7 @@ func main() {
 	// showAnonymousFun()
 	// showFuncExpression()
 	// showReturningFunc()
-	showCallback()
+	// showCallback()
+	// showClosure()
+	showRecursion()
 }
